@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [minecharts](https://github.com/langonne/minecharts-api)
 
-- 👨‍💻 All of my projects are available at [https://github.com/langonne?tab=repositories](https://github.com/langonne?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/langonne?tab=repositories)
 
 - 📫 How to reach me **leo.angonnet@ik.fr**
 
