@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Léo</h1>
-<h3 align="center">CS engineering student at UTBM, focused on networks, virtualization & security | Dev & self-hosting enthusiast</h3>
+<h3 align="center">CS engineering student at UTBM, focused on infrastructure, networks & security | Dev & self-hosting enthusiast</h3>
 
 - 🔭 I’m currently working on [minecharts](https://github.com/langonne/minecharts-api)
 
