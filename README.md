@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/langonne?tab=repositories)
 
-- 📫 How to reach me **leo.angonnet@ik.fr**
+- 📫 How to reach me **leo.angonnet@ik.me**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
